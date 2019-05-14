@@ -25,7 +25,7 @@ Work experience
 * Fall 2018 - current: Graduate Student Researcher
   * University of Virginia
   * Explainable AI - Understanding behaviors of autonomous vehicles and extracting explainability for users.
-  * Supervisor: [Professor Madhur Behl](http://www.madhurbehl.com/).
+  * Supervisor: [Prof. Madhur Behl](http://www.madhurbehl.com/).
 
 * Fall 2017: Research Assistant
   * UC Berkeley
@@ -35,7 +35,7 @@ Work experience
 * Summer 2017: Research Assistant
   * Emory University
   * Natural Language Processing - Generating tweets of Donald Trump.
-  * Supervisor: [Professor Joyce Ho](https://joyceho.github.io/).
+  * Supervisor: [Prof. Joyce Ho](https://joyceho.github.io/).
   
 Project Reports
 ======
