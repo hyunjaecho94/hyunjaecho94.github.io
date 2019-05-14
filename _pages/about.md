@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a MS student in computer science at University of Virginia, advised by Prof. Madhur Behl. My research revolves around interpretable AI. In particular, I study how to accurately evaluate the safety of autonomous vehicles and explain their behaviors by using natural language processing and computer vision. Prior to joining UVa, I received my Bachelor's degree in computer science at UC Berkeley.
+I'm a MS student in computer science at University of Virginia, advised by [Prof. Madhur Behl](http://www.madhurbehl.com/). My research revolves around interpretable AI. In particular, I study how to accurately evaluate the safety of autonomous vehicles and explain their behaviors by using natural language processing and computer vision. Prior to joining UVa, I received my Bachelor's degree in computer science at UC Berkeley.
 
 Research
 ======
