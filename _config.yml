@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Hyun Jae Cho"
-  avatar           : "https://github.com/hyunjaecho94/hyunjaecho94.github.io/blob/master/images/profile.png"
+  avatar           : "https://raw.githubusercontent.com/hyunjaecho94/hyunjaecho94.github.io/master/images/profile.png"
   bio              : "M.S. student at University of Virginia"
   location         : 
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "hc2kc@virginia.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hyun-jae-cho-6ab72855/"
   orcid            : 
   pinterest        :
   soundcloud       :
