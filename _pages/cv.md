@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, UC Berkeley University, 2018
-* M.S. in Computer Science, University of Virginia, (expected Dec.2019)
+* B.S. in Computer Science, UC Berkeley University, 2018.
+* M.S. in Computer Science, University of Virginia, (expected Dec.2019).
 
 Work experience
 ======
