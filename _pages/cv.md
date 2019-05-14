@@ -11,49 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, UC Berkeley University, 2018
+* M.S. in Computer Science, University of Virginia, (expected Dec.2019)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2018 - current: Graduate Student Researcher
+  * University of Virginia
+  * Explainable AI - Understanding behaviors of autonomous vehicles and extracting explainability for users.
+  * Supervisor: [Professor Madhur Behl](http://www.madhurbehl.com/).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fall 2017: Research Assistant
+  * UC Berkeley
+  * Computer Vision - Fast Radio Burst localization.
+  * Supervisor: [Gerry Zhang](https://astro.berkeley.edu/student-profile/2375732-yunfan-gerry-zhang).
+
+* Summer 2017: Research Assistant
+  * Emory University
+  * Natural Language Processing - Generating tweets of Donald Trump.
+  * Supervisor: [Professor Joyce Ho](https://joyceho.github.io/).
   
-Talks
+Project Reports
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Image Classification using Bayesian Neural Networks ([report](https://github.com/hyunjaecho94/Bayesian-neural-network/blob/master/Bayesian_Approach_to_Giving_Neural_Networks_the_Power_to_Reject_to_Classify.pdf)).
+* Image Captioning using Conditional Variational AutoEncoders([report](https://github.com/hyunjaecho94/VAE-ImgCaptioning/blob/master/image_captioning_using_CVAE.pdf)).
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Lab Assistant for CS61A-Structure and Interpretation of Computer Programs at UC Berkeley, 2014.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
