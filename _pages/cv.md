@@ -35,7 +35,7 @@ Work experience
 Project Reports
 ======
 * Image Classification using Bayesian Neural Networks ([report](https://github.com/hyunjaecho94/Bayesian-neural-network/blob/master/Bayesian_Approach_to_Giving_Neural_Networks_the_Power_to_Reject_to_Classify.pdf)).
-* Image Captioning using Conditional Variational AutoEncoders([report](https://github.com/hyunjaecho94/VAE-ImgCaptioning/blob/master/image_captioning_using_CVAE.pdf)).
+* Image Captioning using Conditional Variational AutoEncoders ([report](https://github.com/hyunjaecho94/VAE-ImgCaptioning/blob/master/image_captioning_using_CVAE.pdf)).
   
 Teaching
 ======
