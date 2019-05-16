@@ -16,27 +16,32 @@ The main metric of safety evaluation of autonomous vehicles is “miles per inte
 
 Education
 ======
-* B.S. in Computer Science, UC Berkeley University, 2018.
 * M.S. in Computer Science, University of Virginia, (expected Dec. 2019).
+  * GPA: 3.96
+* B.S. in Computer Science, UC Berkeley University, 2018.
 
-Work experience
+Research & Work Experience
 ======
 
 * Fall 2018 - current: Graduate Student Researcher
   * University of Virginia
   * Explainable AI - Understanding behaviors of autonomous vehicles and extracting explainability for users.
-  * Supervisor: [Prof. Madhur Behl](http://www.madhurbehl.com/).
+  * Advisor: [Prof. Madhur Behl](http://www.madhurbehl.com/).
+
+* Spring 2018: Software Engineer Intern
+  * [Phantom AI](https://phantom.ai/)
+  * HD Map development plugin - Improved its plugin for building HD (hign Definition) map for autonomous driving.
 
 * Fall 2017: Research Assistant
   * UC Berkeley
   * Computer Vision - Fast Radio Burst localization.
-  * Supervisor: [Gerry Zhang](https://astro.berkeley.edu/student-profile/2375732-yunfan-gerry-zhang).
+  * Advisor: [Gerry Zhang](https://astro.berkeley.edu/student-profile/2375732-yunfan-gerry-zhang).
 
 * Summer 2017: Research Assistant
   * Emory University
   * Natural Language Processing - Generating tweets of Donald Trump.
-  * Supervisor: [Prof. Joyce Ho](https://joyceho.github.io/).
-  
+  * Advisor: [Prof. Joyce Ho](https://joyceho.github.io/).
+
 Project Reports
 ======
 * Image Classification using Bayesian Neural Networks ([report](https://github.com/hyunjaecho94/Bayesian-neural-network/blob/master/Bayesian_Approach_to_Giving_Neural_Networks_the_Power_to_Reject_to_Classify.pdf)).
