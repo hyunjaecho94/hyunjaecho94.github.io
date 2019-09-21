@@ -10,7 +10,7 @@ Updated: Sept. 20th 2019.
 
 I'm a MS student in computer science at University of Virginia, advised by [Prof. Madhur Behl](http://www.madhurbehl.com/). My research revolves around interpretable AI. In particular, I study how to accurately evaluate the safety of autonomous vehicles and explain their behaviors by using natural language processing and computer vision. Prior to joining UVa, I received my Bachelor's degree in computer science at UC Berkeley.
 
-Interests: Machine Learning, bioinformatics
+Interests: Machine Learning, Bioinformatics
 
 Research
 ======
@@ -60,3 +60,4 @@ Project Reports
 Teaching
 ======
 * Lab Assistant for CS61A-Structure and Interpretation of Computer Programs at UC Berkeley, 2014.
+* Teaching Assistant for CS5010-Programming and Systems for Data Science at University of Virginia, 2019.
