@@ -25,7 +25,7 @@ In Fall 2019, I began my bioinformatics research at [DataBio](http://databio.org
 
 CV
 ======
-Here's my [CV]({{ site.url }}{{ site.baseurl }}/hjc_resume.pdf)
+Here's my [CV](/hjc_resume.pdf).
 
 Teaching
 ======
