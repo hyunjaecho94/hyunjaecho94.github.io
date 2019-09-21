@@ -12,6 +12,14 @@ I'm a MS student in computer science at University of Virginia, advised by [Pro
 
 Interests: Machine Learning, Bioinformatics
 
+<div class="person">
+	<img src="../photos/hyunjae.jpg">
+	<div class="persontext">
+	<span class="title">Hyun Jae Cho</span><br/>
+	Master's student, Computer Science
+	</div>
+</div>
+
 Research
 ======
 The main metric of safety evaluation of autonomous vehicles has been “miles per intervention” — the number of miles a car can drive autonomously before a safety driver has to take over the car. However, this metric is not ideal because companies test/drive their autonomous vehicles in different environments. Therefore, I study a way to more accurately compare safety of autonomous cars. Using a simulator, it becomes possible to compare autonomous vehicles in a given setting. Using reinforcement learning, I evaluate how different factors, such as the behavior of non-autonomous vehicles, the weather, and time of day, can affect the behavior of self-driving vehicles, namely Apollo by Baidu.
