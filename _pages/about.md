@@ -13,10 +13,10 @@ I'm a MS student in computer science at University of Virginia, advised by [Pro
 Interests: Machine Learning, Bioinformatics
 
 <div class="person">
-	<img src="../photos/hyunjae.jpg">
-	<div class="persontext">
+	<img src="../images/imgonline-com-ua-twotoone-c4bj99oRJcohMRAt.jpg">
+<!-- 	<div class="persontext">
 	<span class="title">Hyun Jae Cho</span><br/>
-	Master's student, Computer Science
+	Master's student, Computer Science -->
 	</div>
 </div>
 
