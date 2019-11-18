@@ -9,8 +9,11 @@ redirect_from:
 
 <div class="">
 	<img src="../images/imgonline-com-ua-twotoone-c4bj99oRJcohMRAt.jpg">
-</div>
 
+</div>
+<p>
+	<br />
+</p>
 
 I'm a MS student in computer science at University of Virginia, advised by [Prof. Madhur Behl](http://www.madhurbehl.com/). My research tries to discover edge cases in which Baidu Apollo's self-driving algorithm will fail to drive to its destination. In doing so, I am using reinforcement learning and a realistic driving simulator developed by LG Silicon Valley Lab. Prior to joining UVa, I received my Bachelor's degree in computer science at UC Berkeley.
 
@@ -28,6 +31,15 @@ CV
 ======
 Here's my [CV](/hjc_resume.pdf).
 Updated: Nov. 18th 2019.
+
+Additional Work & Research Experience
+======
+* Software Engineer Internship at [Phantom AI](https://phantom.ai/) | Spring 2018.
+	- Added functionalities to the company's geographical user interface plugin on [QGIS](https://qgis.org/en/site/).
+
+* Research Internship at Emory University. | Summer 2017
+	- Natural language processing research in generating tweets in a person's writing style.
+	- Supervised by Prof. [Joyce Ho](https://joyceho.github.io/).
 
 Teaching
 ======
