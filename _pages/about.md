@@ -31,13 +31,12 @@ In Fall 2019, I began my bioinformatics research at [DataBio](http://databio.org
 
 CV
 ======
-<p>
-Here's my [CV](/hjc_resume.pdf).<br />
+Here's my [CV](/hjc_resume.pdf).
+
 Updated: November 18th, 2019.
-	<br />
-</p>
+
 <p>
-	<br />
+<br />
 </p>
 
 Additional Work & Research Experience
