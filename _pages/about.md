@@ -34,10 +34,10 @@ Updated: Nov. 18th 2019.
 
 Additional Work & Research Experience
 ======
-* Software Engineer Internship at [Phantom AI](https://phantom.ai/) | Spring 2018.
+* Software Engineer Internship at [Phantom AI](https://phantom.ai/) (Spring 2018)
 	- Added functionalities to the company's geographical user interface plugin on [QGIS](https://qgis.org/en/site/).
 
-* Research Internship at Emory University. | Summer 2017
+* Research Internship at Emory University (Summer 2017)
 	- Natural language processing research in generating tweets in a person's writing style.
 	- Supervised by Prof. [Joyce Ho](https://joyceho.github.io/).
 
