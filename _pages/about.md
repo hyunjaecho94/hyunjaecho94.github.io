@@ -17,7 +17,7 @@ redirect_from:
 
 HELLO!
 ======
-I'm a Master's (MS) student in computer science at University of Virginia, advised by [Prof. Madhur Behl](http://www.madhurbehl.com/). My research works towards discovering edge cases in which Baidu Apollo's self-driving algorithm will fail to drive to its destination. To accomplish this, I am using reinforcement learning and a realistic driving simulator developed by LG Silicon Valley Lab. In addition to my work with Prof. Behl, I am also a member of Sheffield lab of computational biology: [[DataBio](http://databio.org/)].
+I'm a Master's (MS) student in computer science at University of Virginia, advised by [Prof. Madhur Behl](http://www.madhurbehl.com/). My research works towards discovering edge cases in which Baidu Apollo's self-driving algorithm will fail to drive to its destination. To accomplish this, I am using reinforcement learning and a photo-realistic driving simulator developed by LG Silicon Valley Lab. In addition to my work with Prof. Behl, I am also a member of Sheffield lab of computational biology: [[DataBio](http://databio.org/)].
 
 Prior to joining UVa, I received my Bachelor's degree in computer science at UC Berkeley.
 
