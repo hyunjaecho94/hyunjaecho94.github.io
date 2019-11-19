@@ -17,9 +17,9 @@ redirect_from:
 
 HELLO!
 ======
-I'm a MS student in computer science at University of Virginia, advised by [Prof. Madhur Behl](http://www.madhurbehl.com/). My research tries to discover edge cases in which Baidu Apollo's self-driving algorithm will fail to drive to its destination. In doing so, I am using reinforcement learning and a realistic driving simulator developed by LG Silicon Valley Lab. Prior to joining UVa, I received my Bachelor's degree in computer science at UC Berkeley.
+I'm a Master's (MS) student in computer science at University of Virginia, advised by [Prof. Madhur Behl](http://www.madhurbehl.com/). My research works towards discovering edge cases in which Baidu Apollo's self-driving algorithm will fail to drive to its destination. To accomplish this, I am using reinforcement learning and a realistic driving simulator developed by LG Silicon Valley Lab. In addition to my work with Prof. Behl, I am also a member of Sheffield lab of computational biology: [[DataBio](http://databio.org/)].
 
-I am also a member of Sheffield lab of computational biology: [[DataBio](http://databio.org/)].
+Prior to joining UVa, I received my Bachelor's degree in computer science at UC Berkeley.
 
 Interests: Machine Learning, Bioinformatics
 
@@ -27,11 +27,11 @@ Research
 ======
 The main metric of safety evaluation of autonomous vehicles has been “miles per intervention” — the number of miles a car can drive autonomously before a human driver has to take over the car. However, this metric is not ideal because companies test/drive their autonomous vehicles in different environments. Therefore, I study a way to more accurately assess the safety of autonomous cars. Using a simulator, it becomes possible to compare autonomous vehicles in a given setting. Using reinforcement learning, I evaluate how different factors, such as the behavior of non-autonomous vehicles, the weather, the traffic signals, and time of day, can affect the behavior of self-driving vehicles. In particular, I am working with Baidu's Apollo, which is [open-sourced](https://github.com/ApolloAuto/apollo).
 
-In Fall 2019, I began my bioinformatics research at [DataBio](http://databio.org/). At DataBio, our team is trying to accurately transform transcription factor binding sites (tfbs) from biological experiments into a vector embedding space, which is widely used in the field of natural langauge processing. We believe that this way of representing regions on chromosomes will allow us to develop innovative algorithms to determine the relationship between pairs of tfbs. The applications of this research are significant, including the comparison of bedfiles (bedfiles contain tfbs information) between two biological experiements as well as a new perspective of understanding the interconnections of tfbs.  
+In Fall 2019, I began my bioinformatics research at [DataBio](http://databio.org/). At DataBio, our team is trying to accurately transform transcription factor binding sites (tfbs) from biological experiments into a vector embedding space, which is widely used in the field of natural langauge processing. We believe that this way of representing regions on chromosomes will allow us to develop innovative algorithms to determine the relationship between pairs of tfbs. 
 
-CV
+Resume
 ======
-Here's my [CV](/hjc_resume.pdf).
+Here's my [resume](/hjc_resume.pdf).
 
 Updated: November 18th, 2019.
 
