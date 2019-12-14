@@ -17,7 +17,7 @@ redirect_from:
 
 HELLO!
 ======
-I'm a Master's (MS) student in computer science at University of Virginia, advised by [Prof. Madhur Behl](http://www.madhurbehl.com/). My research project is titled, "<[Towards Automated Safety Coverage and Testing for Autonomous Vehicles](/HyunJae_MS_THESIS.pdf)>". This project is about discovering edge cases in which Baidu Apollo's self-driving algorithm will fail to drive safely. To accomplish this, I am using reinforcement learning and a photo-realistic driving simulator developed by LG Silicon Valley Lab. Take a look at a recent talk I gave about it <[slides](/thesis-presentation.pdf)>. In it, I introduce the edge cases of driving scenarios I generated where Apollo had trouble driving safely.
+I'm a Master's (MS) student in computer science at University of Virginia, advised by [Prof. Madhur Behl](http://www.madhurbehl.com/). My research project is titled, "<[Towards Automated Safety Coverage and Testing for Autonomous Vehicles](_pages/HyunJae_MS_THESIS.pdf)>". This project is about discovering edge cases in which Baidu Apollo's self-driving algorithm will fail to drive safely. To accomplish this, I am using reinforcement learning and a photo-realistic driving simulator developed by LG Silicon Valley Lab. Take a look at a recent talk I gave about it <[slides](_pages/thesis-presentation.pdf)>. In it, I introduce the edge cases of driving scenarios I generated where Apollo had trouble driving safely.
 
 In addition to my work with Prof. Behl, I am also a member of Sheffield lab of computational biology: [[DataBio](http://databio.org/)].
 
@@ -33,9 +33,9 @@ In Fall 2019, I began my bioinformatics research at [DataBio](http://databio.org
 
 Resume
 ======
-Here's my [resume](/hjc_resume.pdf).
+Here's my [resume](_pages/hjc_resume.pdf).
 
-Updated: December 3rd, 2019.
+Updated: December 13rd, 2019.
 
 <p>
 <br />
