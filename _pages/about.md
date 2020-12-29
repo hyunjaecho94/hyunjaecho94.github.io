@@ -30,12 +30,12 @@ Interests: Machine Learning, Bioinformatics
 Prior Research
 ======
 Towards Automated Safety Coverage and Testing for Autonomous Vehicles (Master’s degree thesis)
-======
+
 The main metric of safety evaluation of autonomous vehicles has been “miles per intervention” — the number of miles a car can drive autonomously before a human driver has to take over the car. However, this metric is not ideal because companies test/drive their autonomous vehicles in different environments. Therefore, I studied a way to more accurately assess the safety of autonomous cars. Using reinforcement learning on the LGSVL simulator, I evaluated how different factors, such as road geometry, behaviors of non-autonomous vehicles, weather, traffic signals, and time of day, can affect the behavior of self-driving vehicles. In particular, I used Baidu's Apollo 5.0 as my self-driving vehicle, which is [open-source](https://github.com/ApolloAuto/apollo).
 
-======
+
 Transcription Factor Binding Site Prediction
-======
+
 In Fall 2019, I did my bioinformatics research at DataBio. At DataBio, our team is trying to accurately transform transcription factor binding sites (tfbs) from biological experiments into a vector embedding space, which is widely used in the field of natural language processing. We believe that this way of representing regions on chromosomes will allow us to develop innovative algorithms to determine the relationship between pairs of tfbs.
 
 “Bedshift: perturbation of genomic interval sets” provides a Python API and a command line tool for generating new BED files (Browser Extensible Data) with desired random perturbations such as shifting, adding, and dropping transcription sites from existing BED files.
