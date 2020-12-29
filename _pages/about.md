@@ -47,9 +47,6 @@ Here's my [resume](hjc_resume.pdf).
 
 Updated: December, 2020.
 
-<p>
-<br />
-</p>
 
 Additional Work & Research Experience
 ======
