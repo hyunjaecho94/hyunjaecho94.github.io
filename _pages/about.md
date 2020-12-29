@@ -45,7 +45,7 @@ Resume
 ======
 Here's my [resume](hjc_resume.pdf).
 
-Updated: December 13th, 2019.
+Updated: December, 2020.
 
 <p>
 <br />
